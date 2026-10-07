@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+shapely>=2.0
+pyproj>=3.6
+pyshp>=2.3
+numpy>=1.26
+python-multipart>=0.0.9
